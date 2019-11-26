@@ -6,7 +6,7 @@ This repo is for the following paper:
 
 ## Model Overview
 
-![Model framework](/figures/model.png){:height="80%" width="80%"}
+![Model framework](/figures/model.png =1029x471)
 
 ## Samples
 
