@@ -6,7 +6,7 @@ This repo is for the following paper:
 
 ## Model Overview
 
-![Model framework](/figures/model.png =1029x471)
+![Model framework](/figures/model.png)
 
 ## Samples
 
