@@ -6,7 +6,7 @@ This repo is for the following paper:
 
 ## Model Overview
 
-![Model framework](/figures/model.png)
+![Model framework](/figures/model.png){:height="80%" width="80%"}
 
 ## Samples
 
@@ -18,7 +18,7 @@ Coming soon.
 
 ## Reference
 
-1. Language Style Transfer [link](https://github.com/shentianxiao/language-style-transfer)
+1. Language Style Transfer \[[link](https://github.com/shentianxiao/language-style-transfer)\]
 
 ## Citation
 
